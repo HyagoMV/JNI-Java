@@ -1,0 +1,4 @@
+/bin/
+
+# Exclui do versionamento arquivos que termoinam com ".log"
+*.log
